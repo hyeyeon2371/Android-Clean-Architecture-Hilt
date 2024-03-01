@@ -14,6 +14,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "prevdemo"
-include(":ui")
+include(":app")
 include(":domain")
 include(":data")
+include(":presentation")
